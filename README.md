@@ -1,6 +1,6 @@
 <!-- GitHub Profile README Template for Divy Bo -->
 
-<h1 align="center">Hi 👋, I'm Divy Bo</h1>
+<h1 align="center">Hi 👋, I'm Divyanshu Verma</h1>
 <h3 align="center">Aspiring Software Product Engineer | Full Stack Web Developer (MERN) | DSA Enthusiast</h3>
 
 <p align="center">
