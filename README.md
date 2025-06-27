@@ -78,7 +78,7 @@
 <p align="left">
   <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/divyanshu-verma-11a188317/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:divyanshuverma811@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-  <a href="https://yourportfolio.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="30" /></a>
+  <a href="[https://yourportfolio.com](https://divyanshu-vr-portfolio.netlify.app/)"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="30" /></a>
 </p>
 
 ---
