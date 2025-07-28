@@ -64,9 +64,9 @@
 
 ### 🌱 Currently Working On
 
-- Building a **AI Metting Summerizer**.
-- Improving **DSA** using C++ and Python.
-- Learning Context Engineering to build projects using Ai efficiently.
+- Developing an **AI Meeting Summarizer**.
+- Sharpening DSA skills with **C++** and **Python**.
+- Exploring Context Engineering for AI-driven projects.
 
 ---
 
